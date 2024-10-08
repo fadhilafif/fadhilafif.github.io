@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="132"
+   height="24"
+   viewBox="0 0 132 24"
+   fill="none"
+   version="1.1"
+   id="svg144"
+   sodipodi:docname="logo fdhl.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     aria-label="Fdhl"
+     id="text533"
+     style="font-size:30.6434px;font-family:lex;-inkscape-font-specification:lex;text-align:center;letter-spacing:6.5px;text-anchor:middle;fill:#ffffff;stroke-width:8.83942">
+    <path
+       d="M 3.7131831e-6,22.803436 H 7.8404049 V 17.401938 H 22.563601 V 11.521637 H 7.8404049 V 9.067771 H 24.523701 V 2.6937044 H 3.7131831e-6 Z"
+       style="font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, '"
+       id="path186" />
+    <path
+       d="m 52.884059,12.74857 c 0,2.019951 -1.15212,3.680799 -3.187034,3.680799 H 41.108494 V 9.067771 h 8.588531 c 2.034914,0 3.187034,1.645886 3.187034,3.680799 z M 33.268093,2.6937044 V 22.803436 H 51.16336 c 5.521198,0.07481 9.62095,-4.593518 9.576062,-10.054866 C 60.78431,7.2572967 56.684558,2.6188914 51.16336,2.6937044 Z"
+       style="font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, '"
+       id="path188" />
+    <path
+       d="m 89.174594,15.905678 v 6.867833 h 7.855363 V 2.6637792 H 89.174594 V 9.5316115 H 77.399029 V 2.6637792 H 69.558628 V 22.773511 h 7.840401 v -6.867833 z"
+       style="font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, '"
+       id="path190" />
+    <path
+       d="M 108.09355,2.6637792 V 22.773511 h 23.53616 V 16.399444 H 115.93395 V 2.6637792 Z"
+       style="font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, '"
+       id="path192" />
+  </g>
+  <defs
+     id="defs148" />
+  <sodipodi:namedview
+     id="namedview146"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="4.4583333"
+     inkscape:cx="83.551402"
+     inkscape:cy="46.317757"
+     inkscape:window-width="1358"
+     inkscape:window-height="694"
+     inkscape:window-x="-4"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg144">
+    <sodipodi:guide
+       position="0,24"
+       orientation="1,0"
+       id="guide2542"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="48.08215,21.33622"
+       orientation="0,-1"
+       id="guide3996"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.2973,1.1957"
+       orientation="0,-1"
+       id="guide3998"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="131.463,8.347005"
+       orientation="1,0"
+       id="guide4000"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+</svg>
